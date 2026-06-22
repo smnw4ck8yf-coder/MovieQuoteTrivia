@@ -5,6 +5,7 @@ struct ContentView: View {
     @State private var showingGame = false
     @State private var showingResults = false
     @State private var showingAchievements = false
+    @State private var showingStatistics = false
     @State private var gameVM = GameViewModel()
 
     var body: some View {
@@ -12,6 +13,7 @@ struct ContentView: View {
             HomeView(
                 showingGame: $showingGame,
                 showingAchievements: $showingAchievements,
+                showingStatistics: $showingStatistics,
                 highScore: statsVM.highScore,
                 gamesPlayed: statsVM.gamesPlayed,
                 totalCorrect: statsVM.totalCorrectAnswers
@@ -25,6 +27,13 @@ struct ContentView: View {
                 }
                 .navigationDestination(isPresented: $showingAchievements) {
                     AchievementsView(achievements: statsVM.achievements)
+                }
+                .navigationDestination(isPresented: $showingStatistics) {
+                    StatisticsView(
+                        gamesPlayed: statsVM.gamesPlayed,
+                        totalCorrect: statsVM.totalCorrectAnswers,
+                        highScore: statsVM.highScore
+                    )
                 }
                 .navigationDestination(isPresented: $showingResults) {
                     ResultsView(
