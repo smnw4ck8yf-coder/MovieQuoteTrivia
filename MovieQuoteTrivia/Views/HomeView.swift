@@ -4,6 +4,7 @@ struct HomeView: View {
     @Binding var showingGame: Bool
     @Binding var showingAchievements: Bool
     @Binding var showingStatistics: Bool
+    @Binding var showingSettings: Bool
     let highScore: Int
     let gamesPlayed: Int
     let totalCorrect: Int
@@ -67,6 +68,23 @@ struct HomeView: View {
                     .cornerRadius(12)
                 }
                 .accessibilityIdentifier("statistics_button")
+
+                Button(action: {
+                    showingSettings = true
+                }) {
+                    HStack {
+                        Image(systemName: "gearshape.fill")
+                        Text("Settings")
+                    }
+                    .font(.title3)
+                    .fontWeight(.bold)
+                    .frame(maxWidth: .infinity)
+                    .padding()
+                    .background(Color.gray.opacity(0.3))
+                    .foregroundStyle(.white)
+                    .cornerRadius(12)
+                }
+                .accessibilityIdentifier("settings_button")
             }
 
             VStack(spacing: 8) {

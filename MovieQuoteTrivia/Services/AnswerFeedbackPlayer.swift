@@ -9,15 +9,19 @@ final class AnswerFeedbackPlayer {
     private init() {}
 
     func playAnswerFeedback(isCorrect: Bool) {
-        let generator = UINotificationFeedbackGenerator()
-        generator.prepare()
-        generator.notificationOccurred(isCorrect ? .success : .error)
+        if AppSettings.bool(forKey: AppSettings.hapticsKey) {
+            let generator = UINotificationFeedbackGenerator()
+            generator.prepare()
+            generator.notificationOccurred(isCorrect ? .success : .error)
+        }
 
-        playTone(
-            frequency: isCorrect ? 740 : 220,
-            duration: isCorrect ? 0.09 : 0.12,
-            volume: isCorrect ? 0.18 : 0.14
-        )
+        if AppSettings.bool(forKey: AppSettings.soundEffectsKey) {
+            playTone(
+                frequency: isCorrect ? 740 : 220,
+                duration: isCorrect ? 0.09 : 0.12,
+                volume: isCorrect ? 0.18 : 0.14
+            )
+        }
     }
 
     private func playTone(frequency: Double, duration: Double, volume: Float) {
