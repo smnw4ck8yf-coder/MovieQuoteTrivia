@@ -22,6 +22,39 @@ class StatsViewModel: ObservableObject {
         )
     }
 
+    var achievements: [Achievement] {
+        [
+            Achievement(
+                id: "first_game_played",
+                title: "First Game Played",
+                description: "Complete your first game.",
+                progress: gamesPlayed,
+                target: 1
+            ),
+            Achievement(
+                id: "score_10_out_of_10",
+                title: "Score 10/10",
+                description: "Get every quote right in one game.",
+                progress: min(highScore, 10),
+                target: 10
+            ),
+            Achievement(
+                id: "win_5_games",
+                title: "Win 5 Games",
+                description: "Complete 5 games.",
+                progress: gamesPlayed,
+                target: 5
+            ),
+            Achievement(
+                id: "answer_50_correctly",
+                title: "Answer 50 Questions Correctly",
+                description: "Build up 50 correct answers across games.",
+                progress: totalCorrectAnswers,
+                target: 50
+            )
+        ]
+    }
+
     // MARK: - Public Methods
 
     func loadStats() {
