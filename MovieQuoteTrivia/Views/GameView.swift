@@ -65,6 +65,10 @@ struct GameView: View {
             if gameVM.answerWasCorrect == nil {
                 Button {
                     gameVM.submitSelectedAnswer()
+
+                    if let wasCorrect = gameVM.answerWasCorrect {
+                        AnswerFeedbackPlayer.shared.playAnswerFeedback(isCorrect: wasCorrect)
+                    }
                 } label: {
                     Text("Submit")
                         .font(.title3)
