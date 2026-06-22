@@ -1,0 +1,56 @@
+{
+  "source": "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Views/GameView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Correct!",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Wrong! It was %@",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 73
+        }
+      },
+      {
+        "comment": "",
+        "key": "Question %lld of 10",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 10
+        }
+      },
+      {
+        "comment": "",
+        "key": "Score: %lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "See Results",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 87
+        }
+      },
+      {
+        "comment": "",
+        "key": "Next",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 87
+        }
+      }
+    ]
+  },
+  "version": 1
+}

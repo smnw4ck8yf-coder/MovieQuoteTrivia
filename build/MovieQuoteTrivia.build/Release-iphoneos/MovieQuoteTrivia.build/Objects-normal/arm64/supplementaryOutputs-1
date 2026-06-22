@@ -1,0 +1,12 @@
+{
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Models/GameStats.swift" : {
+    "abi-baseline-json" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia.abi.json",
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary.dia",
+    "objc-header" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-Swift.h",
+    "swiftdoc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia.swiftdoc",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia.swiftmodule",
+    "swiftsourceinfo" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Release-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia.swiftsourceinfo"
+  }
+}

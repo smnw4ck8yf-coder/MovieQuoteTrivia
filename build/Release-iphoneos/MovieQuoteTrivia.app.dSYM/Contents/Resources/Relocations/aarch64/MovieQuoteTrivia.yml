@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/chimplicker/Projects/MovieQuoteTrivia/build/Release-iphoneos/MovieQuoteTrivia.app/MovieQuoteTrivia'
+relocations:     []
+...

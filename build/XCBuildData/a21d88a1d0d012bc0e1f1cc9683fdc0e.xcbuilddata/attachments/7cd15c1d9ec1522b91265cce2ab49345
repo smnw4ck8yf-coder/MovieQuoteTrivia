@@ -1,0 +1,119 @@
+{
+  "" : {
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary.dia",
+    "emit-module-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary-emit-module.d",
+    "emit-module-diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary-emit-module.dia",
+    "pch" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary-Bridging-header.pch",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTrivia-primary.swiftdeps"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Models/GameStats.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameStats~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Models/Quote.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/Quote~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/MovieQuoteTriviaApp.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/MovieQuoteTriviaApp~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Services/QuoteService.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/QuoteService~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/ViewModels/GameViewModel.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameViewModel~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/ViewModels/StatsViewModel.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/StatsViewModel~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Views/ContentView.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ContentView~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Views/GameView.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GameView~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Views/HomeView.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/HomeView~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/MovieQuoteTrivia/Views/ResultsView.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/ResultsView~partial.swiftmodule"
+  },
+  "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/chimplicker/Projects/MovieQuoteTrivia/build/MovieQuoteTrivia.build/Debug-iphoneos/MovieQuoteTrivia.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}
